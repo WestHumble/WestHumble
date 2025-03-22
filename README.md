@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I do have 6 years of experience in a marketing agency as Web developer. I created websites based on CMS (WordPress and Joomla), I was responsible for creating pages from scratch, installing the template and the required components, then adapting the entire page to the client's needs. I also dealt with the adaptation of ready-made scripts in PHP or JS based on the Lavarel or React frameworks, depending on the language, that allowed me to get the skills to find myself in ready-made projects. Currently, I am studying programming at the specialization of internet applications at Collegium Da Vinci.
+I do have 6 years of experience in a marketing agency as a Web Developer. I created websites based on CMS (WordPress and Joomla), I was responsible for creating pages from scratch, installing the template and the required components, then adapting the entire page to the client's needs. I also dealt with the adaptation of ready-made scripts in PHP or JS based on the Laravel or React frameworks, depending on the language, which allowed me to gain the skills to navigate existing projects. I have completed my studies in programming with a specialization in internet applications at Collegium Da Vinci.
 
 * 🌍  I'm based in Poznań
 * 🧠  I'm learning React.js, REST API, Kubernetes, Firebase
